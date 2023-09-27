@@ -1,0 +1,14 @@
+body {
+    background-color: gold;
+}
+
+.header  {
+    height: 100px;
+    background-color: aqua;
+}
+
+.footer  {
+    height: 100px;
+    bottom: 0;
+    background-color: aquamarine;
+}
