@@ -6,13 +6,13 @@ body {
     padding: 25px;
     text-align: center;
     position: relative;
-    width: 100%;
     background-color: aqua;
+    width: 100%;
 }
 
 #menu-gauche {
     width: 150px;
-    background-color: #333;
+    background-color: palevioletred;
     color: #fff;
     position: relative;
     top: 0;
@@ -24,16 +24,16 @@ body {
 #contenu {
     text-align: center;
     position: relative;
-    width: 100%;
     bottom: 50%;
     padding: 100px;
+    width: 100%;
 }
 
 #pied  {
     padding: 25px;
     text-align: center;
-    position: relative;
+    position: absolute;
     bottom: 0;
-    width: 100%;
     background-color: aquamarine;
+    width: 100%;
 }
